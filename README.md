@@ -4,6 +4,7 @@
 
 ```sh
 yarn add eslint babel-eslint eslint-plugin-react eslint-plugin-react-hooks eslint-config-swiftcarrot --dev
+npm install eslint babel-eslint eslint-plugin-react eslint-plugin-react-hooks eslint-config-swiftcarrot -g
 ```
 
 ```javascript
