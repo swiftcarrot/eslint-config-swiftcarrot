@@ -1,9 +1,11 @@
 {
   "name": "eslint-config-swiftcarrot",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
