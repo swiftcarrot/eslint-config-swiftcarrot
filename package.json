@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-swiftcarrot",
+  "version": "0.1.1",
+  "description": "",
+  "main": "index.js",
+  "files": ["index.js"],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wang Zuo <wangzuo@swiftcarrot.com> (https://swiftcarrot.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.6.0",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^2.2.0"
+  }
+}
