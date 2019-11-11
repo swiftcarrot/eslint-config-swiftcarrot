@@ -29,5 +29,10 @@ module.exports = {
       generators: true,
       experimentalObjectRestSpread: true
     }
+  },
+  settings: {
+    react: {
+      version: 'detect'
+    }
   }
 };
